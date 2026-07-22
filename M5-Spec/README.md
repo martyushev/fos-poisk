@@ -53,11 +53,11 @@
 
 | Файл | Содержание |
 | :--- | :--- |
-| [fos_module_5.md](./fos_module_5.md) | Полный Фонд оценочных средств по модулю |
-| [kim_ml-3.1_test.md](./kim_ml-3.1_test.md) | КИМ — тестирование по индикатору ML-3.1 |
-| [kim_ml-3.1_business_game.md](./kim_ml-3.1_business_game.md) | КИМ — деловая игра по индикатору ML-3.1 |
-| [kim_ml-3.2_lab.md](./kim_ml-3.2_lab.md) | КИМ — лабораторная работа №5 |
-| [kim_ml-3.3_case.md](./kim_ml-3.3_case.md) | КИМ — рубежный кейс «Корпоративный RAG» |
+| [fos_module_5.md](FOS/fos_module_5.md) | Полный Фонд оценочных средств по модулю |
+| [kim_ml-3.1_test.md](KIM/kim_ml-3.1_test.md) | КИМ — тестирование по индикатору ML-3.1 |
+| [kim_ml-3.1_business_game.md](KIM/kim_ml-3.1_business_game.md) | КИМ — деловая игра по индикатору ML-3.1 |
+| [kim_ml-3.2_lab.md](KIM/kim_ml-3.2_lab.md) | КИМ — лабораторная работа №5 |
+| [kim_ml-3.3_case.md](KIM/kim_ml-3.3_case.md) | КИМ — рубежный кейс «Корпоративный RAG» |
 
 ---
 
